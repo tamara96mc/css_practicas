@@ -1,0 +1,33 @@
+table {
+    border:solid 3px;
+    border-top-color:#b8b2b2;
+    border-right-color:#575454;
+    border-bottom-color:#575454;
+    border-left-color:#b8b2b2;
+    background-color:#dddddb;
+    width: 100%;
+ 
+  }
+
+  th, td{
+    border:solid 1px black;
+
+  }
+
+  th{
+    background-color: rgb(71, 192, 71);
+  }
+  tr:nth-child(1){
+
+    background-color: rgb(236, 180, 75);
+  }
+
+  tr:nth-child(2){
+
+    background-color: rgb(247, 247, 64);
+  }
+
+  .huellas{
+    background-image: url("../img/huella.jpg");
+    background-repeat: round;
+  }
