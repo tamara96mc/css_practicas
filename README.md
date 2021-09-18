@@ -2,9 +2,9 @@
 
 Ejercicios:
 
-https://tamara96mc.github.io/css_practicas/donde.html/
+https://tamara96mc.github.io/css_practicas/r11/donde.html/
 
-https://tamara96mc.github.io/css_practicas/instalaciones.html/
+https://tamara96mc.github.io/css_practicas/r12/instalaciones.html/
 
 https://tamara96mc.github.io/css_practicas/r13/
 
